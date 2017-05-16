@@ -6,3 +6,4 @@ the repository for the KBRwyle coding test
 3) Given some code, rewrite the code to use only one control Structure
 # Comments
 For the first task, I went ahead and did the Square and Quadriladeral Tasks
+Tasks 2 and 3 are in src/main
